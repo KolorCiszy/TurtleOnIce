@@ -1,0 +1,8 @@
+# TurtleOnIce
+Turtle on Ice 2D platformer game made with Unreal Engine 5. 
+
+It has the style of an old flash game - Snow Drift (by Miniclip).
+The goal is to reach the end of level 10 and claim the ultimate reward for the whole journey.
+
+
+![Zrzut ekranu (252)](https://github.com/KolorCiszy/TurtleOnIce/assets/144261105/6c85b149-0137-44a7-a12a-4c62a015987e)
